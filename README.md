@@ -57,6 +57,7 @@ print("---------------------------------------------------------------")
 ```
 #source
 https://github.com/bandipoorvika26-spec/Single-server-infinite-capacity---Markov-Model
+```
 ## Result :
 <img width="857" height="401" alt="image" src="https://github.com/user-attachments/assets/019672ef-f008-4546-97cd-9183d9f2c0fe" />
 
